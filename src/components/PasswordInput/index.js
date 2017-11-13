@@ -1,1 +1,1 @@
-export {default} from './PasswordInput.js';
+export {default} from './PasswordInput';
