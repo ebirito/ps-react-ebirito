@@ -7,9 +7,6 @@ A library of React components created in [Creating Reusable React Components](ht
 npm install ps-react-ebirito
 ```
 
-## Issues
-[Here's a list of current known issues in the course](https://github.com/coryhouse/ps-react/issues).
-
 ## Docs
 [Component documentation](https://ebirito.github.io/ps-react-ebirito/)
 
